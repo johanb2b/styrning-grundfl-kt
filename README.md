@@ -126,7 +126,3 @@ Verkar beslutet ”fel”? → Kolla loggrad: Villkor: drier=true/false, cooler=
 
 
 
----
-
-Vill du att jag lägger in en ”sommarspärr” eller en CSV-logg (t.ex. via HTTP) för att spara AF/Temp/RH per cykel och analysera över tid? Jag kan fixa en variant direkt.
-
